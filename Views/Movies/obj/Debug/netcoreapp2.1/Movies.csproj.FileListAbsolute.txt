@@ -1,0 +1,4 @@
+/Users/katelynncampbell/Documents/ASP.NetMVC/Views/Movies/obj/Debug/netcoreapp2.1/Movies.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/ASP.NetMVC/Views/Movies/obj/Debug/netcoreapp2.1/Movies.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/ASP.NetMVC/Views/Movies/obj/Debug/netcoreapp2.1/Movies.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/ASP.NetMVC/Views/Movies/obj/Debug/netcoreapp2.1/Movies.AssemblyInfo.cs
